@@ -1,6 +1,6 @@
 <h1 align="center">🔗Links</h1>
 <p align="center">
-Links é uma repositório de <em>links</em>, desenvolvido com React no Front-End e Nodejs e MySQL no Back-End. A aplicação foi feita em uma maratona JS, com intuito de aprendizado.
+Links é um repositório de <em>links</em>, desenvolvido com React no Front-End e Nodejs e MySQL no Back-End. A aplicação foi feita em uma maratona JS, com intuito de aprendizado.
 </p>
 </br>
 <h1 align="center"><img src="Demostration.gif"></h1>
